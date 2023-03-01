@@ -86,11 +86,12 @@ h4 {
   }
 
   .imagen {
-   width: 10%;
-   border-radius: 50%;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
   }
-  
-  .menu dd {
+
+   .menu dd {
     padding: 8px;
     text-align: center;
     font-size: 12px;
